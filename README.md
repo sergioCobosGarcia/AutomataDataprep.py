@@ -10,3 +10,17 @@ De esta manera conseguimos evitar que se ejecuten dataprep antes de recibir el f
 
 
 Este codigo esta pensado unicamente para ser ejecutado en una CF y disparado cuando se recibe un fichero en el bucket.
+
+
+
+# AS IS
+
+
+![image-20220405-094235](https://user-images.githubusercontent.com/46417402/171605682-7764675d-14b1-458a-a3d6-638bdfb09b8b.png)
+
+
+
+# TO BE
+
+
+![image-20220525-085501](https://user-images.githubusercontent.com/46417402/171605707-4e6d810a-4b41-4797-a763-282765efa016.png)
